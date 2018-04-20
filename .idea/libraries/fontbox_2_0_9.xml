@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="fontbox-2.0.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/fontbox-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jbig2-imageio-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pdfbox-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pdfbox-debugger-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pdfbox-tools-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/preflight-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xmpbox-2.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
